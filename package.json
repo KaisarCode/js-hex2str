@@ -1,6 +1,6 @@
 {
   "name": "kc-hex2str",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "[js] Translate hexadecimal to human-readable text.",
   "main": "index.js",
   "repository": {
